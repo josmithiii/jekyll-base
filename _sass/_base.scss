@@ -202,3 +202,17 @@ pre {
         }
     }
 }
+
+/**
+ * JOS additions begin here
+ */
+
+table {
+   border-collapse: collapse;
+}
+th, td {
+    text-align: center;
+}
+table, th, td {
+   border: 1px solid black;
+}
