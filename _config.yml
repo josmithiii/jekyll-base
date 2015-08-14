@@ -4,7 +4,8 @@ email: healthrisks@w3k.org
 description: > # this means to ignore newlines until "baseurl:"
   This is a prototype website for exploring user interface ideas.
   It is not yet developed much at all.
-baseurl: "/healthrisks/" # the subpath of your site, e.g. /blog/
+#N:baseurl: "/healthrisks/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://w3k.org" # the base hostname & protocol for your site
 twitter_username: josmithiii
 github_username:  josmithiii
